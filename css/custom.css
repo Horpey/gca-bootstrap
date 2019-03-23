@@ -1,0 +1,38 @@
+.logo-list{
+	height: 22px;
+    filter: grayscale(1);
+    margin-right: 12px;
+}
+.list-image{
+	background-color: #f1f1f1;
+    padding: 15px 0px;
+}
+.navlogo{
+	height: 50px;
+}
+.search-input{
+	background-color: #efefef;
+    border: 0px;
+}
+.mylist{
+    font-size: 14px;
+}
+.header-red{
+    background-color: red;
+    color: white;
+}
+.my-footer{
+    background-color: #434343;
+}
+.footer-ul li{
+    color: white;
+    list-style: none
+}
+.social-icons span{
+    color: #434343;
+    background-color: white;
+    font-size: 14px;
+    padding: 11px 13px;
+    margin-right: 5px;
+    border-radius: 50px;
+}
